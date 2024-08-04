@@ -1,0 +1,94 @@
+/* Centering the container and form */
+.vh-100 {
+    height: 100vh;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .justify-content-center {
+    justify-content: center;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  .card {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  textarea.form-control {
+    resize: vertical;
+  }
+  
+  .d-grid {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .btn-outline-dark {
+    background-color: transparent;
+    border: 1px solid #343a40;
+    color: #343a40;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-outline-dark:hover {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .mb-3 {
+    margin-bottom: 15px;
+  }
+  
+  .text-primary {
+    color: #007bff;
+  }
+  
+  .fw-bold {
+    font-weight: bold;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .alert {
+    color: red;
+  }
+  

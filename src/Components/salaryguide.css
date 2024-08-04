@@ -1,0 +1,40 @@
+.salary-guide-container {
+    padding: 20px;
+  }
+  
+  .salary-guide-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .job-selection {
+    margin-bottom: 20px;
+  }
+  
+  .job-selection label {
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .job-selection select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .salary-info {
+    text-align: center;
+  }
+  
+  .salary-info h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .salary-info p {
+    font-size: 20px;
+    color: #333;
+  }
+  
